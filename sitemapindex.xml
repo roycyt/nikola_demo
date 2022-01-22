@@ -6,39 +6,47 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
+  <loc>https://roycyt.github.io/nikola_demo/authors/nikola-tesla.xml</loc>
+  <lastmod>2022-01-22T08:27:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://roycyt.github.io/nikola_demo/authors/roberto-alsina.xml</loc>
+  <lastmod>2022-01-22T08:27:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://roycyt.github.io/nikola_demo/categories/blog.xml</loc>
-  <lastmod>2022-01-22T07:45:00Z</lastmod>
+  <lastmod>2022-01-22T08:27:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://roycyt.github.io/nikola_demo/categories/cat_nikola.xml</loc>
-  <lastmod>2022-01-22T07:45:00Z</lastmod>
+  <lastmod>2022-01-22T08:27:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://roycyt.github.io/nikola_demo/categories/demo.xml</loc>
-  <lastmod>2022-01-22T07:45:00Z</lastmod>
+  <lastmod>2022-01-22T08:27:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://roycyt.github.io/nikola_demo/categories/nikola.xml</loc>
-  <lastmod>2022-01-22T07:45:00Z</lastmod>
+  <lastmod>2022-01-22T08:27:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://roycyt.github.io/nikola_demo/categories/python.xml</loc>
-  <lastmod>2022-01-22T07:45:00Z</lastmod>
+  <lastmod>2022-01-22T08:27:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://roycyt.github.io/nikola_demo/galleries/demo/rss.xml</loc>
-  <lastmod>2022-01-22T07:45:00Z</lastmod>
+  <lastmod>2022-01-22T08:27:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://roycyt.github.io/nikola_demo/galleries/rss.xml</loc>
-  <lastmod>2022-01-22T07:45:00Z</lastmod>
+  <lastmod>2022-01-22T08:27:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://roycyt.github.io/nikola_demo/rss.xml</loc>
-  <lastmod>2022-01-22T07:45:00Z</lastmod>
+  <lastmod>2022-01-22T08:27:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://roycyt.github.io/nikola_demo/sitemap.xml</loc>
-  <lastmod>2022-01-22T07:45:00Z</lastmod>
+  <lastmod>2022-01-22T08:27:00Z</lastmod>
  </sitemap>
 </sitemapindex>
